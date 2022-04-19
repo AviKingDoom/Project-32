@@ -53,7 +53,7 @@ async function getBackgroundImg(){
     
     
 
-    var hour=dayTime.slice(11,13)
+    hour=dayTime.slice(11,13)
     
 
     
